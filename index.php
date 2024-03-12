@@ -11,7 +11,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner text-light carousel-zoom">
                 <div class="item active">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/b1.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(img/banner/b1.png);"></div>
                     <div class="box-table shadow dark">
                         <div class="box-cell">
                             <div class="container">
